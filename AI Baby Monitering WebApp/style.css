@@ -1,0 +1,34 @@
+body{
+    background-size: cover;
+    background-position: center;
+}
+
+.heading
+{
+font-size: 23px;
+width: 100%;
+margin: 0px;
+}
+
+canvas
+{
+border:2px solid white;
+border-radius: 10px;
+margin-top: 130px;
+box-shadow: 2px 2px 2px white;
+}
+
+.copy_right_footer {
+    position: fixed;
+    color: #f5f5f5;
+    bottom: 0;
+    width: 100%;
+    background-color: #6c757d;
+    line-height: 2;
+    text-align: center;
+ }
+
+ #detecting , #object_found
+ {
+  font-size: 18px; 
+ }
